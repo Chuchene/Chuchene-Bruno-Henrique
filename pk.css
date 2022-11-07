@@ -6,41 +6,62 @@
 	color: snow;
 }
 
+.divisao1 {
+	border: 2px solid snow;
+	margin: 10px 13px;
+}
+
 .titulo {
 	font-size: 50px;
 	text-align: center;
 	text-decoration: underline;
+	margin: 15px;
 }
 
 .paragrafo {
-	font-size: 17px;
-}
-
-.lista1g {
-	padding: 10px;
+	font-size: 18px;
+	text-align: center;
+	margin: 20px 0px;
 }
 
 .p1 {
-	padding: 13px;
+	padding: 13px 15px;
 	font-size: 17px;
-}
-
-.titulo2 {
-	font-size: 50px;
-	text-align: center;
-	text-decoration: underline;
 }
 
 .regiaopk {
 	text-align: center;
 	font-size: 30px;
+	margin: 15px;
 }
 
 .strong1 {
 	text-decoration: underline;
+	font-weight: bold;
 }
 
-.p2 {
-	padding: 13px;
-	font-size: 17px;
+.conclusao {
+	font-size: 60px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	margin: 0 0 50px 0;
+}
+
+.divisao2 {
+	text-align: center;
+	background: url(footer2.png);
+	padding: 40px 0;
+}
+
+.listafim {
+	color: white;
+	margin: 5px;
+}
+
+.contato {
+	font-size: 20px;
+	text-decoration:underline;
+	font-weight: bold;
+	margin: 20px;
 }
