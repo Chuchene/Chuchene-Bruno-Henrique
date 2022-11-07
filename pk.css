@@ -1,11 +1,46 @@
 .corpo {
-	background-color: #d00000;
+	background-color: #a00000;
 }
 
 .principal {
 	color: snow;
 }
 
+.titulo {
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.paragrafo {
+	font-size: 17px;
+}
+
 .lista1g {
 	padding: 10px;
+}
+
+.p1 {
+	padding: 13px;
+	font-size: 17px;
+}
+
+.titulo2 {
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.regiaopk {
+	text-align: center;
+	font-size: 30px;
+}
+
+.strong1 {
+	text-decoration: underline;
+}
+
+.p2 {
+	padding: 13px;
+	font-size: 17px;
 }
