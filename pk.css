@@ -3,6 +3,17 @@
 	color:snow;
 }
 
+.principal {
+	text-align: center;
+}
+
+.cabecalho {
+	font-size: 70px;
+	text-align: center;
+	text-decoration: underline;
+	margin: 20px 0px;
+}
+
 .divisao1 {
 	border: 2px solid snow;
 	margin: 10px 13px;
@@ -16,9 +27,9 @@
 }
 
 .paragrafo {
-	font-size: 18px;
+	font-size: 25px;
 	text-align: center;
-	margin: 20px 0px;
+	margin: 20px 0px: ;
 }
 
 .p1 {
